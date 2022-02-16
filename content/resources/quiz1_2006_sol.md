@@ -1,8 +1,13 @@
 ---
 content_type: resource
 description: This resource contains solutions to a quiz on relativity.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/8-033-relativity-fall-2006/0a383c29b73f6ad1414f5ec729d0d964_quiz1_2006_sol.pdf
+file: /media/courses/8-033-relativity-fall-2006/0a383c29b73f6ad1414f5ec729d0d964_quiz1_2006_sol.pdf
 file_type: application/pdf
+learning_resource_types:
+- Exams
+ocw_type: OCWFile
+parent_title: Exams
+parent_type: CourseSection
 resourcetype: Document
 title: quiz1_2006_sol.pdf
 uid: 0a383c29-b73f-6ad1-414f-5ec729d0d964

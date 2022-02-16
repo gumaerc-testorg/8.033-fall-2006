@@ -1,5 +1,8 @@
 ---
 content_type: page
+learning_resource_types:
+- Lecture Notes
+ocw_type: CourseSection
 title: Lecture Notes
 uid: 0760ff51-7ca3-893a-266a-9bdc4dbbe4fa
 ---
@@ -237,7 +240,7 @@ LECTURE SLIDES
 *   Relativistic Version of Work-Energy Theorem
     
     *   Kinetic Energy, Rest Energy, Equivalence of Mass-Energy
-    *   E2 - p2 Invariant
+    *   E{{< sup "2" >}} - p{{< sup "2" >}} Invariant
     
 *   Nuclear Binding Energies
     
@@ -369,7 +372,7 @@ Quiz 1
     
     *   Revisit the Relativistic Doppler Effect
     
-*   Relativistic Invariant E2 - p2 for a Collection of Particles
+*   Relativistic Invariant E{{< sup "2" >}} - p{{< sup "2" >}} for a Collection of Particles
 
 
 {{< tdclose >}}
@@ -490,7 +493,7 @@ Quiz 1
     
     *   Dynamical Equations for the Scale Factor a - Including Ordinary Matter, Dark Matter, and Dark Energy
     *   Critical Closure Density; Open, Closed, Flat Universes
-    *   Solutions for Various Combinations of Omegam, OmegaLambda and Omegak
+    *   Solutions for Various Combinations of Omega{{< sub "m" >}}, Omega{{< sub "Lambda" >}} and Omega{{< sub "k" >}}
     
 
 
@@ -515,7 +518,7 @@ Quiz 1
     
     *   Age of the Universe, Brief History
     *   Relation between Scale Factor and Z from the Doppler Shift
-    *   Lookback Age as a Function of Z for Various Values of Omegam, OmegaLambda and Omegak
+    *   Lookback Age as a Function of Z for Various Values of Omega{{< sub "m" >}}, Omega{{< sub "Lambda" >}} and Omega{{< sub "k" >}}
     *   Acceleration Parameter as a Function of Scale Factor
     *   Current S Status of Cosmology, Unsolved Puzzles
     

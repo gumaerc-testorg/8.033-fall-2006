@@ -6,8 +6,13 @@ description: This resource contains lecture slides on relativistic momentum infe
   rest energy, equivalence of mass-energy, E2 - p2 invariant, nuclear binding energies,
   atomic mass excesses, semi-empirical binding energy equation, nuclear reactions,
   and solar p-p chain.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/8-033-relativity-fall-2006/aea37746bb94708863a6e7043ca3dffd_lecture9_lagrang.pdf
+file: /media/courses/8-033-relativity-fall-2006/aea37746bb94708863a6e7043ca3dffd_lecture9_lagrang.pdf
 file_type: application/pdf
+learning_resource_types:
+- Lecture Notes
+ocw_type: OCWFile
+parent_title: Lecture Notes
+parent_type: CourseSection
 resourcetype: Document
 title: lecture9_lagrang.pdf
 uid: aea37746-bb94-7088-63a6-e7043ca3dffd

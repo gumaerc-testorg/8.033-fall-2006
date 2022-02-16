@@ -5,8 +5,13 @@ description: This resource contains lecture slides on short discourse on the cal
   constants of the motion, Brachistochrone problem, extremal aging for inertially
   moving clocks, and optional problems in the use of the calculus of variations as
   applied to Lagragian mechanics and other problems in the extremization of path integrals.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/8-033-relativity-fall-2006/963d88ff2b05902951c7e5b4ebde34de_lecture8_euler.pdf
+file: /media/courses/8-033-relativity-fall-2006/963d88ff2b05902951c7e5b4ebde34de_lecture8_euler.pdf
 file_type: application/pdf
+learning_resource_types:
+- Lecture Notes
+ocw_type: OCWFile
+parent_title: Lecture Notes
+parent_type: CourseSection
 resourcetype: Document
 title: lecture8_euler.pdf
 uid: 963d88ff-2b05-9029-51c7-e5b4ebde34de

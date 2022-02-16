@@ -1,5 +1,8 @@
 ---
 content_type: page
+learning_resource_types:
+- Readings
+ocw_type: CourseSection
 title: Readings
 uid: 06242663-fd1b-2d8b-57b7-1e47ee57e153
 ---
@@ -293,7 +296,7 @@ Resnick: Supplementary Topics A and B in pages 188-209.
 *   Relativistic Version of Work-Energy Theorem
     
     *   Kinetic Energy, Rest Energy, Equivalence of Mass-Energy
-    *   E2 - p2 Invariant
+    *   E{{< sup "2" >}} - p{{< sup "2" >}} Invariant
     
 *   Nuclear Binding Energies
     
@@ -459,7 +462,7 @@ Particle Physics Handout ([PDF]({{< baseurl >}}/resources/particles))
     
     *   Revisit the Relativistic Doppler Effect
     
-*   Relativistic Invariant E2 - p2 for a Collection of Particles
+*   Relativistic Invariant E{{< sup "2" >}} - p{{< sup "2" >}} for a Collection of Particles
 
 
 {{< tdclose >}}
@@ -633,7 +636,7 @@ Cosmology: [Ned Wright's Tutorial](http://www.astro.ucla.edu/~wright/cosmo_01.ht
     
     *   Dynamical Equations for the Scale Factor a - Including Ordinary Matter, Dark Matter, and Dark Energy
     *   Critical Closure Density; Open, Closed, Flat Universes
-    *   Solutions for Various combinations of Omegam, OmegaLambda and Omegak
+    *   Solutions for Various combinations of Omega{{< sub "m" >}}, Omega{{< sub "Lambda" >}} and Omega{{< sub "k" >}}
     
 
 
@@ -672,7 +675,7 @@ Cosmology: [Ned Wright's Tutorial](http://www.astro.ucla.edu/~wright/cosmo_01.ht
     
     *   Age of the Universe, Brief History
     *   Relation between Scale Factor and Z from the Doppler Shift
-    *   Lookback Age as a Function of Z for Various Values of Omegam, OmegaLambda and Omegak
+    *   Lookback Age as a Function of Z for Various Values of Omega{{< sub "m" >}}, Omega{{< sub "Lambda" >}} and Omega{{< sub "k" >}}
     *   Acceleration Parameter as a Function of Scale Factor
     *   Current S Status of Cosmology, Unsolved Puzzles
     

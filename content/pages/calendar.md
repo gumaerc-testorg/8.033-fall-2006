@@ -1,5 +1,7 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 title: Calendar
 uid: 7998e0d1-5d79-e507-fa75-c95ae33838f1
 ---
@@ -237,7 +239,7 @@ Problem set 3 due
 *   Relativistic version of Work-Energy Theorem
     
     *   Kinetic Energy, Rest Energy, Equivalence of Mass-Energy
-    *   E2 - p2 Invariant
+    *   E{{< sup "2" >}} - p{{< sup "2" >}} Invariant
     
 *   Nuclear Binding Energies
     
@@ -369,7 +371,7 @@ Problem set 5 due
     
     *   Revisit the Relativistic Doppler Effect
     
-*   Relativistic Invariant E2 - p2 for a Collection of Particles
+*   Relativistic Invariant E{{< sup "2" >}} - p{{< sup "2" >}} for a Collection of Particles
 
 
 {{< tdclose >}}
@@ -490,7 +492,7 @@ Problem set 7 due
     
     *   Dynamical Equations for the Scale Factor a - Including Ordinary Matter, Dark Matter, and Dark Energy
     *   Critical Closure Density; Open, Closed, Flat Universes
-    *   Solutions for Various Combinations of Omegam, OmegaLambda and Omegak
+    *   Solutions for Various Combinations of Omega{{< sub "m" >}}, Omega{{< sub "Lambda" >}} and Omega{{< sub "k" >}}
     
 
 
@@ -515,7 +517,7 @@ Problem set 7 due
     
     *   Age of the Universe, Brief History
     *   Relation between Scale Factor and Z from the Doppler Shift
-    *   Lookback Age as a Function of Z for Various Values of Omegam, OmegaLambda and Omegak
+    *   Lookback Age as a Function of Z for Various Values of Omega{{< sub "m" >}}, Omega{{< sub "Lambda" >}} and Omega{{< sub "k" >}}
     *   Acceleration Parameter as a Function of Scale Factor
     *   Current S status of Cosmology, Unsolved Puzzles
     
