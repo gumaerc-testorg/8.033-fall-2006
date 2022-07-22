@@ -5,6 +5,7 @@ file: /courses/8-033-relativity-fall-2006/db5e30a762bb0087e101cfa77eb44ada_weisk
 file_type: application/pdf
 learning_resource_types:
 - Readings
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection

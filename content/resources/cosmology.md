@@ -5,6 +5,7 @@ file: /courses/8-033-relativity-fall-2006/52dec2023ebdb26536a9db6f7d3256d3_cosmo
 file_type: application/pdf
 learning_resource_types:
 - Readings
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection

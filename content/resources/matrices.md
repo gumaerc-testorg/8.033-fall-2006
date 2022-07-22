@@ -5,6 +5,7 @@ file: /courses/8-033-relativity-fall-2006/c89dce744352c6a2c5523d5f134db1ab_matri
 file_type: application/pdf
 learning_resource_types:
 - Readings
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: matrices.pdf
 uid: c89dce74-4352-c6a2-c552-3d5f134db1ab
 ---
 This resource contains a matrix primer handout.
-

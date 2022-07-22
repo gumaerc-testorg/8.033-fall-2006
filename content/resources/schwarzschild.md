@@ -5,6 +5,7 @@ file: /courses/8-033-relativity-fall-2006/5dae4a0c2d69b367951ddea5e17a2cea_schwa
 file_type: application/pdf
 learning_resource_types:
 - Readings
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
