@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: /courses/8-033-relativity-fall-2006/db5e30a762bb0087e101cfa77eb44ada_weiskopf.pdf
+file_size: 666105
 file_type: application/pdf
 learning_resource_types:
 - Readings

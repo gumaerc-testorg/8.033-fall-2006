@@ -5,6 +5,7 @@ description: This resource contains lecture slides on stellar aberration, Dopple
   calibrated Minkowski diagrams, pole-vaulter problem, twin paradox with constant
   velocity plus a reversal, and twin paradox with arbitrary acceleration.
 file: /courses/8-033-relativity-fall-2006/21e5641958305fcb6e704fe8b59b404d_lecture7_kinem4.pdf
+file_size: 1113612
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

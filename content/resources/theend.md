@@ -3,6 +3,7 @@ content_type: resource
 description: This resource contains information about space and time, How The Universe
   Will End.
 file: /courses/8-033-relativity-fall-2006/9e6efc7aaa74d905c2070fc950cb58c5_theend.pdf
+file_size: 3696246
 file_type: application/pdf
 learning_resource_types:
 - Readings

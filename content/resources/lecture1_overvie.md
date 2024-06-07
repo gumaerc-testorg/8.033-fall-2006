@@ -3,6 +3,7 @@ content_type: resource
 description: This resource contains lecture slides on course contents, practical issues
   and advice, related subjects, and a brief history of physics.
 file: /courses/8-033-relativity-fall-2006/a69cf2a86e23b65de2c3dec674aa9dca_lecture1_overvie.pdf
+file_size: 225578
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

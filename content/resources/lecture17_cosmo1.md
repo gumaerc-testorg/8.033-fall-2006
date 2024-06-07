@@ -3,6 +3,7 @@ content_type: resource
 description: This resource contains lecture slides on general relativity and cosmology,
   and cosmological redshifts and the Hubble Law.
 file: /courses/8-033-relativity-fall-2006/26525e6de85baed91a1d97544907c580_lecture17_cosmo1.pdf
+file_size: 596518
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
