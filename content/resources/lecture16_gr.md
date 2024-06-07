@@ -7,6 +7,7 @@ description: This resource contains lecture slides on strong and weak principles
   the metric tensor and the ordinary potential, and between Einstein's field equations
   and Poisson's equation.
 file: /courses/8-033-relativity-fall-2006/b24be73791d48753fc58b65efa2f691b_lecture16_gr.pdf
+file_size: 868336
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

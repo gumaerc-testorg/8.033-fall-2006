@@ -3,6 +3,7 @@ content_type: resource
 description: This resource contains information about Growth of Cosmic Structure,
   Nonlinear Clustering and Black Holes.
 file: /courses/8-033-relativity-fall-2006/03c5723ed24ca881b164eb1901d81b83_spacetime.pdf
+file_size: 476954
 file_type: application/pdf
 learning_resource_types:
 - Readings
