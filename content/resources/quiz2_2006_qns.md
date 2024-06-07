@@ -2,6 +2,7 @@
 content_type: resource
 description: This resource contains a quiz on relativity.
 file: /courses/8-033-relativity-fall-2006/2405d8afc454419b955a7530b78446d0_quiz2_2006_qns.pdf
+file_size: 113053
 file_type: application/pdf
 learning_resource_types:
 - Exams

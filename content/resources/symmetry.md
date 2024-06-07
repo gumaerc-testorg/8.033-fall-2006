@@ -2,6 +2,7 @@
 content_type: resource
 description: This resource contains a handout on the notion of symmetry in physics.
 file: /courses/8-033-relativity-fall-2006/72d543f796b53b0b426ab2475ae8f071_symmetry.pdf
+file_size: 295007
 file_type: application/pdf
 learning_resource_types:
 - Readings

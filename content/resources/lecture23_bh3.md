@@ -5,6 +5,7 @@ description: This resource contains lecture slides on Keplers third law in the S
   star system, derivation of the last stable circular orbit at 6M, and analytic E
   and L for circular orbits.
 file: /courses/8-033-relativity-fall-2006/019d0413de788d195eb8f5befbdc49e1_lecture23_bh3.pdf
+file_size: 761100
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

@@ -4,6 +4,7 @@ description: This resource contains a handout on important particles, nuclear ph
   terminology, nest mass & binding energy, photons, particle physics processes, photon
   emission & absorption, and Compton scattering.
 file: /courses/8-033-relativity-fall-2006/5c24f9c6ba62f114aa65ce62c5e17656_particles.pdf
+file_size: 145566
 file_type: application/pdf
 learning_resource_types:
 - Readings

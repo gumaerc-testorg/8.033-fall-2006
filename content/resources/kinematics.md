@@ -3,6 +3,7 @@ content_type: resource
 description: This resource contains a handout on Lorentz transformations toolbox and
   implications.
 file: /courses/8-033-relativity-fall-2006/d46b9744097749ac38a64c3c2e170546_kinematics.pdf
+file_size: 293243
 file_type: application/pdf
 learning_resource_types:
 - Readings

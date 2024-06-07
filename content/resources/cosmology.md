@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: /courses/8-033-relativity-fall-2006/52dec2023ebdb26536a9db6f7d3256d3_cosmology.pdf
+file_size: 148699
 file_type: application/pdf
 learning_resource_types:
 - Readings

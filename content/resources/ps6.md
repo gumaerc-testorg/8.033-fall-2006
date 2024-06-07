@@ -2,6 +2,7 @@
 content_type: resource
 description: This resource contains a problem set on relativity.
 file: /courses/8-033-relativity-fall-2006/f22a62baf0427648bcd52b062877a999_ps6.pdf
+file_size: 125570
 file_type: application/pdf
 learning_resource_types:
 - Assignments
