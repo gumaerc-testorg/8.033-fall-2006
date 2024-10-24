@@ -3,7 +3,7 @@ content_type: resource
 description: This resource contains lecture slides on Coulomb's Law, transformation
   of Coulomb's Law, force on a moving test charge, magnetic field and relativity,
   and derivation of Lorentz Force.
-file: /courses/8-033-relativity-fall-2006/522e86fce158934916d8574b2b17777c_lecture14_em1.pdf
+file: /ol-ocw-studio-app/courses/8-033-relativity-fall-2006/522e86fce158934916d8574b2b17777c_lecture14_em1.pdf
 file_size: 662698
 file_type: application/pdf
 learning_resource_types:

@@ -3,7 +3,7 @@ content_type: resource
 description: This resource contains a handout on formula summary, how relativity and
   electricity implies magnetism, transforming the electromagnetic field, transforming
   charge and current densities, retarded positions, and a fly in the ointment.
-file: /courses/8-033-relativity-fall-2006/b7b6f7d71a2d40af5791fdbbf71d1442_electromagnetism.pdf
+file: /ol-ocw-studio-app/courses/8-033-relativity-fall-2006/b7b6f7d71a2d40af5791fdbbf71d1442_electromagnetism.pdf
 file_size: 179000
 file_type: application/pdf
 learning_resource_types:

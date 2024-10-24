@@ -4,7 +4,7 @@ description: This resource contains lecture slides on time dilation and length c
   decay of atmospheric muons, pole vaulter problem, alternative looks at time dilation
   and length contraction, spacetime intervals, and first discussion of accelerated
   clocks.
-file: /courses/8-033-relativity-fall-2006/bf94aecfb56af396efe5214517b98372_lecture5_kinem2.pdf
+file: /ol-ocw-studio-app/courses/8-033-relativity-fall-2006/bf94aecfb56af396efe5214517b98372_lecture5_kinem2.pdf
 file_size: 202661
 file_type: application/pdf
 learning_resource_types:

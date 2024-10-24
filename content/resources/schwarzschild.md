@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /courses/8-033-relativity-fall-2006/5dae4a0c2d69b367951ddea5e17a2cea_schwarzschild.pdf
+file: /ol-ocw-studio-app/courses/8-033-relativity-fall-2006/5dae4a0c2d69b367951ddea5e17a2cea_schwarzschild.pdf
 file_size: 516084
 file_type: application/pdf
 learning_resource_types:
