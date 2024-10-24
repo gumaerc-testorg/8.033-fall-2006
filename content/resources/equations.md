@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains a handout on Einstein's field equations.
-file: /courses/8-033-relativity-fall-2006/01daa271a2e1acff984bbd41a58cf63d_equations.pdf
+file: /ol-ocw-studio-app/courses/8-033-relativity-fall-2006/01daa271a2e1acff984bbd41a58cf63d_equations.pdf
 file_size: 125811
 file_type: application/pdf
 learning_resource_types:

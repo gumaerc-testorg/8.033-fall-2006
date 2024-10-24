@@ -3,7 +3,7 @@ content_type: resource
 description: This resource contains a course study guide handout on math, special
   relativity basics & kinematics, particle physics, electromagnetism, cosmology, and
   Schwarzschild metric & black holes.
-file: /courses/8-033-relativity-fall-2006/7cbe6cbdea881260ce92f9c2d1acaf6b_guide.pdf
+file: /ol-ocw-studio-app/courses/8-033-relativity-fall-2006/7cbe6cbdea881260ce92f9c2d1acaf6b_guide.pdf
 file_size: 100543
 file_type: application/pdf
 learning_resource_types:
