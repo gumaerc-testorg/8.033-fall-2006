@@ -3,7 +3,7 @@ content_type: resource
 description: This resource contains a handout relativistic dynamics, formula summary,
   momentum & energy, acceleration & force (optional), transformation of force (optional),
   and transformation of acceleration (optional).
-file: /ol-ocw-studio-app/courses/8-033-relativity-fall-2006/e05effec399aa480b6452ad9ca2ecabc_dynamics.pdf
+file: /courses/8-033-relativity-fall-2006/e05effec399aa480b6452ad9ca2ecabc_dynamics.pdf
 file_size: 170538
 file_type: application/pdf
 learning_resource_types:

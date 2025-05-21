@@ -3,7 +3,7 @@ content_type: resource
 description: This resource contains lecture slides on general transformation laws
   for E and B, magnetic force due to current-bearing wire, and force between current-bearing
   wires.
-file: /ol-ocw-studio-app/courses/8-033-relativity-fall-2006/109668f4d803ae8963f3cd5af8fb88e2_lecture15_em2.pdf
+file: /courses/8-033-relativity-fall-2006/109668f4d803ae8963f3cd5af8fb88e2_lecture15_em2.pdf
 file_size: 245993
 file_type: application/pdf
 learning_resource_types:

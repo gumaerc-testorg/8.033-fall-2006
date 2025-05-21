@@ -3,7 +3,7 @@ content_type: resource
 description: This resource contains lecture slides on formal transformation of E and
   P as a four-vector, revisit the relativistic doppler effect, and relativistic invariant
   E2 - p2 for a collection of particles.
-file: /ol-ocw-studio-app/courses/8-033-relativity-fall-2006/b71936a07e7b85f2980f1c3fb83eb6ea_lecture13_part2.pdf
+file: /courses/8-033-relativity-fall-2006/b71936a07e7b85f2980f1c3fb83eb6ea_lecture13_part2.pdf
 file_size: 2093034
 file_type: application/pdf
 learning_resource_types:

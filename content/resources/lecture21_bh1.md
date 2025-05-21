@@ -4,7 +4,7 @@ description: This resource contains lecture slides on gravitational redshift, ap
   to the GPS system, particle orbits, use Euler equations (for external aging) in
   connection with the Schwarzschild metric to find constants of the motion E and L,
   and deriving the full expression for the effective potential.
-file: /ol-ocw-studio-app/courses/8-033-relativity-fall-2006/bc94629f28eae7b92641aecbc4bf8502_lecture21_bh1.pdf
+file: /courses/8-033-relativity-fall-2006/bc94629f28eae7b92641aecbc4bf8502_lecture21_bh1.pdf
 file_size: 287659
 file_type: application/pdf
 learning_resource_types:

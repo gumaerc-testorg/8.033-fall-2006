@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains a problem set on relativity.
-file: /ol-ocw-studio-app/courses/8-033-relativity-fall-2006/9d0ff12d48c81cf9ea6c2a0dd54b442b_ps4.pdf
+file: /courses/8-033-relativity-fall-2006/9d0ff12d48c81cf9ea6c2a0dd54b442b_ps4.pdf
 file_size: 287270
 file_type: application/pdf
 learning_resource_types:
