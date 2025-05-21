@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains a handout on special and general relativity concepts.
-file: /ol-ocw-studio-app/courses/8-033-relativity-fall-2006/247a558883de99bc79212077c6c6d5d5_gr.pdf
+file: /courses/8-033-relativity-fall-2006/247a558883de99bc79212077c6c6d5d5_gr.pdf
 file_size: 145661
 file_type: application/pdf
 learning_resource_types:

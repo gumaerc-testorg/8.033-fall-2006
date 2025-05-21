@@ -4,7 +4,7 @@ description: This resource contains lecture slides on addition of velocities, an
   transformation for trajectories, Doppler effect, classical Doppler effect for sound,
   relativistic Doppler effect, astrophysical examples, and relativistic and superluminal
   jets.
-file: /ol-ocw-studio-app/courses/8-033-relativity-fall-2006/909e205adee074e5401e0a7c7cce06c0_lecture6_kinem3.pdf
+file: /courses/8-033-relativity-fall-2006/909e205adee074e5401e0a7c7cce06c0_lecture6_kinem3.pdf
 file_size: 201755
 file_type: application/pdf
 learning_resource_types:

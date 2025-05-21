@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains a matrix primer handout.
-file: /ol-ocw-studio-app/courses/8-033-relativity-fall-2006/c89dce744352c6a2c5523d5f134db1ab_matrices.pdf
+file: /courses/8-033-relativity-fall-2006/c89dce744352c6a2c5523d5f134db1ab_matrices.pdf
 file_size: 88305
 file_type: application/pdf
 learning_resource_types:

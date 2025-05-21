@@ -4,7 +4,7 @@ description: This resource contains lecture slides on relativistic motion in a B
   Lorentz force, cyclotrons, synchrotrons, further Gedanken experiments relating to
   mass-energy equivalence, relativistic momentum, quantum nature of light, photoelectric
   effect, photons, and beta-decay and the inference of neutrino.
-file: /ol-ocw-studio-app/courses/8-033-relativity-fall-2006/e6c4fc1de12a22b2b563416a2be13972_lecture10_dyn1.pdf
+file: /courses/8-033-relativity-fall-2006/e6c4fc1de12a22b2b563416a2be13972_lecture10_dyn1.pdf
 file_size: 588883
 file_type: application/pdf
 learning_resource_types:
