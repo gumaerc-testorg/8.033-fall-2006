@@ -6,7 +6,7 @@ description: This resource contains lecture slides on defining Einstein field eq
   tensor components vanish, symmetry arguments for why the non-zero components are
   functions of radius only, the differential equations for G00 and G11, and shell
   radius vs. bookkeepers radial coordinate.
-file: /ol-ocw-studio-app/courses/8-033-relativity-fall-2006/1a10f343b32e823db1d1499bf6cb3b36_lecture20_cosmo4.pdf
+file: /courses/8-033-relativity-fall-2006/1a10f343b32e823db1d1499bf6cb3b36_lecture20_cosmo4.pdf
 file_size: 4270214
 file_type: application/pdf
 learning_resource_types:

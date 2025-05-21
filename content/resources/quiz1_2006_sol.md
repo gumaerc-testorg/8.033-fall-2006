@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains solutions to a quiz on relativity.
-file: /ol-ocw-studio-app/courses/8-033-relativity-fall-2006/0a383c29b73f6ad1414f5ec729d0d964_quiz1_2006_sol.pdf
+file: /courses/8-033-relativity-fall-2006/0a383c29b73f6ad1414f5ec729d0d964_quiz1_2006_sol.pdf
 file_size: 152120
 file_type: application/pdf
 learning_resource_types:

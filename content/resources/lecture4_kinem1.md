@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains lecture slides on derivation of Lorentz-Einstein
   transformations, matrix representation, and introduction of four-vectors.
-file: /ol-ocw-studio-app/courses/8-033-relativity-fall-2006/a0bc66ff18266da4256f27fb297bfe01_lecture4_kinem1.pdf
+file: /courses/8-033-relativity-fall-2006/a0bc66ff18266da4256f27fb297bfe01_lecture4_kinem1.pdf
 file_size: 526017
 file_type: application/pdf
 learning_resource_types:

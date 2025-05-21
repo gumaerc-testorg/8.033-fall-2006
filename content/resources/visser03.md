@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /ol-ocw-studio-app/courses/8-033-relativity-fall-2006/99ee71d1a96d6350c358427074c185b8_visser03.pdf
+file: /courses/8-033-relativity-fall-2006/99ee71d1a96d6350c358427074c185b8_visser03.pdf
 file_size: 297655
 file_type: application/pdf
 learning_resource_types:

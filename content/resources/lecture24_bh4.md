@@ -3,7 +3,7 @@ content_type: resource
 description: This resource contains lecture slides on photon trajectories, deriving
   differential equation for the trajectories, critical impact parameter, deriving
   expression for light bending in the weak-field limit, and Shapiro time delay.
-file: /ol-ocw-studio-app/courses/8-033-relativity-fall-2006/f00d050deff843c35fec90a8e9655c19_lecture24_bh4.pdf
+file: /courses/8-033-relativity-fall-2006/f00d050deff843c35fec90a8e9655c19_lecture24_bh4.pdf
 file_size: 1839474
 file_type: application/pdf
 learning_resource_types:

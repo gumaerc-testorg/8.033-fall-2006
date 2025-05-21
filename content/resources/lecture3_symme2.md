@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains lecture slides on postulates of special relativity,
   first discussion of Minkowski diagrams, and world lines.
-file: /ol-ocw-studio-app/courses/8-033-relativity-fall-2006/a3d9b1d2dd34fbd61eccdde69795e620_lecture3_symme2.pdf
+file: /courses/8-033-relativity-fall-2006/a3d9b1d2dd34fbd61eccdde69795e620_lecture3_symme2.pdf
 file_size: 172800
 file_type: application/pdf
 learning_resource_types:

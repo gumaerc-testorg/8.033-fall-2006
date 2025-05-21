@@ -3,7 +3,7 @@ content_type: resource
 description: This resource contains lecture slides on particle production, threshold
   energy, colliding particle beams, and two photons producing an electron/positron
   pair.
-file: /ol-ocw-studio-app/courses/8-033-relativity-fall-2006/3abe9958fe737cc5759f56a7dfadbd6c_lecture12_part1.pdf
+file: /courses/8-033-relativity-fall-2006/3abe9958fe737cc5759f56a7dfadbd6c_lecture12_part1.pdf
 file_size: 1205285
 file_type: application/pdf
 learning_resource_types:
