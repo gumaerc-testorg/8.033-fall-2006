@@ -4,7 +4,7 @@ description: 'This resource contains lecture slides on absorption and emission o
   light quanta: atomic and nuclear recoil, M?ssbauer effect, Pound-Rebka experiment,
   and collisions: between photons and moving atoms, elastic, compton, inverse compton,
   and between photon and relativistic particle.'
-file: /courses/8-033-relativity-fall-2006/1c8e65d69358da54b5d370fc8f84462b_lecture11_dyn2.pdf
+file: /ol-ocw-studio-app/courses/8-033-relativity-fall-2006/1c8e65d69358da54b5d370fc8f84462b_lecture11_dyn2.pdf
 file_size: 456766
 file_type: application/pdf
 learning_resource_types:

@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /courses/8-033-relativity-fall-2006/02415213222b845bbec6e734c64d1718_fieldeqs.pdf
+file: /ol-ocw-studio-app/courses/8-033-relativity-fall-2006/02415213222b845bbec6e734c64d1718_fieldeqs.pdf
 file_size: 217538
 file_type: application/pdf
 learning_resource_types:

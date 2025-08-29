@@ -4,7 +4,7 @@ description: This resource contains lecture slides on age of the universe, relat
   between scale factor and Z from the Doppler shift, lookback age as a function of
   Z for various values of Omega m, Omega Lambda and Omega k, acceleration parameter
   as a function of scale factor, current S status of cosmology, and unsolved puzzles.
-file: /courses/8-033-relativity-fall-2006/86e212587192ca7812af4d15b92f1339_lecture19_cosmo3.pdf
+file: /ol-ocw-studio-app/courses/8-033-relativity-fall-2006/86e212587192ca7812af4d15b92f1339_lecture19_cosmo3.pdf
 file_size: 1457184
 file_type: application/pdf
 learning_resource_types:
