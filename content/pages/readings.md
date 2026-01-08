@@ -248,9 +248,9 @@ Taylor and Wheeler: Until pp. 2-18, in addition to Project G.
 Please also read the following:
 
 Cosmology: Spacetime Overview   
-Tegmark, Max. "{{% resource_link "fb95bbef-2fce-4cb7-8e4d-3d9594c0c050" "Spacetime" %}}." _Science_ 296 (2002): 1427-1433.
+Tegmark, Max. "[Spacetime](http://de.arxiv.org/abs/astro-ph/0207199)." _Science_ 296 (2002): 1427-1433.
 
-Cosmology: {{% resource_link "8a948c42-3db6-40a8-888e-65eebb7c5632" "Ned Wright's Tutorial" %}}.
+Cosmology: [Ned Wright's Tutorial](http://www.astro.ucla.edu/~wright/cosmo_01.htm).
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}18{{< tdclose >}}{{< tdopen >}}
 ### General Relativity and Cosmology
@@ -262,12 +262,12 @@ Taylor and Wheeler: Until page 2-18, also project G.
 Please also read the following:
 
 Cosmology: Popular Overview   
-Lemonick, Michael D. "{{% resource_link "d0b424f6-b65e-4e9a-bc6b-8c504224a990" "The End" %}}." _Time_, June 25, 2001, 48-56.
+Lemonick, Michael D. "[The End](http://www.time.com/time/magazine/article/0,9171,1000170,00.html)." _Time_, June 25, 2001, 48-56.
 
 Cosmology: Spacetime Overview   
-Tegmark, Max. "{{% resource_link "fb95bbef-2fce-4cb7-8e4d-3d9594c0c050" "Spacetime" %}}." _Science_ 296 (2002): 1427-1433.
+Tegmark, Max. "[Spacetime](http://de.arxiv.org/abs/astro-ph/0207199)." _Science_ 296 (2002): 1427-1433.
 
-Cosmology: {{% resource_link "8a948c42-3db6-40a8-888e-65eebb7c5632" "Ned Wright's Tutorial" %}}.
+Cosmology: [Ned Wright's Tutorial](http://www.astro.ucla.edu/~wright/cosmo_01.htm).
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}19{{< tdclose >}}{{< tdopen >}}
 ### General Relativity and Cosmology (cont.)
@@ -282,12 +282,12 @@ Taylor and Wheeler: Until pp. 2-18, also Project G.
 Please also read the following:
 
 Cosmology: Popular Overview   
-Lemonick, Michael D. "{{% resource_link "d0b424f6-b65e-4e9a-bc6b-8c504224a990" "The End" %}}." _Time_, June 25, 2001, 48-56.
+Lemonick, Michael D. "[The End](http://www.time.com/time/magazine/article/0,9171,1000170,00.html)." _Time_, June 25, 2001, 48-56.
 
 Cosmology: Spacetime Overview   
-Tegmark, Max. "{{% resource_link "fb95bbef-2fce-4cb7-8e4d-3d9594c0c050" "Spacetime" %}}." _Science_ 296 (2002): 1427-1433.
+Tegmark, Max. "[Spacetime](http://de.arxiv.org/abs/astro-ph/0207199)." _Science_ 296 (2002): 1427-1433.
 
-Cosmology: {{% resource_link "8a948c42-3db6-40a8-888e-65eebb7c5632" "Ned Wright's Tutorial" %}}.
+Cosmology: [Ned Wright's Tutorial](http://www.astro.ucla.edu/~wright/cosmo_01.htm).
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}20{{< tdclose >}}{{< tdopen >}}
 ### General Relativity and Cosmology (cont.)
@@ -304,12 +304,12 @@ Taylor and Wheeler: Until pp. 2-18, also Project G.
 Please also read the following:
 
 Cosmology: Popular Overview   
-Lemonick, Michael D. "{{% resource_link "d0b424f6-b65e-4e9a-bc6b-8c504224a990" "The End" %}}." _Time_, June 25, 2001, 48-56.
+Lemonick, Michael D. "[The End](http://www.time.com/time/magazine/article/0,9171,1000170,00.html)." _Time_, June 25, 2001, 48-56.
 
 Cosmology: Spacetime Overview   
-Tegmark, Max. "{{% resource_link "fb95bbef-2fce-4cb7-8e4d-3d9594c0c050" "Spacetime" %}}." _Science_ 296 (2002): 1427-1433.
+Tegmark, Max. "[Spacetime](http://de.arxiv.org/abs/astro-ph/0207199)." _Science_ 296 (2002): 1427-1433.
 
-Cosmology: {{% resource_link "8a948c42-3db6-40a8-888e-65eebb7c5632" "Ned Wright's Tutorial" %}}.
+Cosmology: [Ned Wright's Tutorial](http://www.astro.ucla.edu/~wright/cosmo_01.htm).
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 - 21
